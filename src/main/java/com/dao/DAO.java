@@ -19,7 +19,7 @@ import com.utility.MyUtilities;
 import com.entity.Product;
 import com.entity.customer;
 import com.entity.brand;
-
+//newupdatesahead
 public class DAO {
 	private Connection conn;
 	
